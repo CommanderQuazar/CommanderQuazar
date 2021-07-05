@@ -1,4 +1,4 @@
-### Greeting Fellow Programmers 👋 
+## Greeting Fellow Programmers 👋 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 <!--
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## My names Tobey Ragain AKA CommanderQuazar.
+#### My names Tobey Ragain AKA CommanderQuazar.
