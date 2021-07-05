@@ -67,4 +67,5 @@ I love diving into the Linux Kernel to see how it ticks and hope to create my ow
 
 ### Stats!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CommanderQuazar&langs_count=8)](https://github.com/CommanderQuazar)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CommanderQuazar&langs_count=8)](https://github.com/CommanderQuazar) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=argon-galactic&langs_count=8)](https://github.com/CommanderQuazar)
+
