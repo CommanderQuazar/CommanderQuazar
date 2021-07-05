@@ -16,9 +16,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### My names Tobey Ragain AKA CommanderQuazar.
+### My names Tobey Ragain AKA CommanderQuazar.
 I am a low-level programmer based out of Seattle, Wa. I am fluent in C/C++, Python, SQL, x86 Assembly.
+I love computer networking and pen-testing.
 
 <hr>
 
-#### I'm currently Learning 
+### What I'm Currently Working On
+
+Currently design a complete home management system via Rasberry Pi. Subsystems include a security system,
+light controllers, backup power for essencial home functionailty, and all tied into make sketchy virtual assistant named Thrawn. 
+
+<hr>
+### What I'm Currently Learning 
+
+
