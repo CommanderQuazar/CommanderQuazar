@@ -54,7 +54,12 @@ I love diving into the Linux Kernel to see how it ticks and hope to create my ow
 
 ### Tools and Technology
 ![](https://img.shields.io/badge/<OS>-<Arch Linux>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/<Editor>-<CLion>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/<Code>-<C/C++>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/<Code>-<Python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/<Code>-<x86 Assembly>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
