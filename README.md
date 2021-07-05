@@ -37,4 +37,15 @@ I am also working on a Raspberry Pi super clustor.
 
 ### What I'm Currently Learning 
 
+Operating systems are by far the coolest programs every developed by humans. I am learning about OS dev and history of these systems. 
+I love diving into the Linux Kernal to see how it ticks and hope to create my own kernal from sckratch.
 
+<hr>
+
+### Favorite Movies / Show
+1. Star Wars IV: Empire Strikes Back
+2. Tron Legacy 
+3. Interstelar
+4. The Expanse (TV)
+5. Silicon Valley (TV)
+6. Mr. Robot (TV)
