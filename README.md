@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 I am a low-level programmer based out of Seattle, Wa. I am fluent in C/C++, Python, SQL, x86 Assembly.
 
 <hr>
+
+#### I'm currently Learning 
