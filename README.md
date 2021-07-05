@@ -37,8 +37,8 @@ I am also working on a Raspberry Pi super clustor.
 
 ### What I'm Currently Learning 
 
-Operating systems are by far the coolest programs every developed by humans. I am learning about OS dev and history of these systems. 
-I love diving into the Linux Kernal to see how it ticks and hope to create my own kernal from sckratch.
+Operating systems are by far the coolest programs every developed by humans. I am learning about OS dev and history of these systems.
+I love diving into the Linux Kernel to see how it ticks and hope to create my own kernel from scratch.
 
 <hr>
 
