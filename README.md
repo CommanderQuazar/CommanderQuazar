@@ -53,3 +53,5 @@ I love diving into the Linux Kernel to see how it ticks and hope to create my ow
 6. Mr. Robot (TV)
 
 ### Tools and Technology
+
+![](https://badgen.net/badge/OS/Arch Linux/blue)
