@@ -26,7 +26,7 @@ I love computer networking and pen-testing.
 
 ### What I'm Currently Working On
 
-Currently design a complete home management system via Raspberry Pi. Subsystems include a security system,
+Currently designing a complete home management system via Raspberry Pi. Subsystems include a security system,
 light controllers, backup power for essential home functionality, and all tied into make sketchy virtual assistant named Thrawn. 
 
 Since the school year was online I was able to code whenever, so I designed a program called ZOOMer that automates launching/closing
