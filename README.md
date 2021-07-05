@@ -54,4 +54,4 @@ I love diving into the Linux Kernel to see how it ticks and hope to create my ow
 
 ### Tools and Technology
 
-![](https://badgen.net/badge/OS/Arch Linux/blue)
+![](https://badgen.net/badge/OS/Arch-Linux/blue)
