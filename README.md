@@ -46,8 +46,8 @@ I love diving into the Linux Kernel to see how it ticks and hope to create my ow
 
 ### Favorite Movies / Show
 1. Star Wars IV: Empire Strikes Back
-2. Tron Legacy 
-3. Interstelar
+2. Tron: Legacy 
+3. Interstellar
 4. The Expanse (TV)
 5. Silicon Valley (TV)
 6. Mr. Robot (TV)
