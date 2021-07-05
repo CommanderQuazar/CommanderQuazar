@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 -->
 
 #### My names Tobey Ragain AKA CommanderQuazar.
-<hr><\hr>
+I am a low-level programmer based out of Seattle, Wa. I am fluent in C/C++, Python, SQL, x86 Assembly.
+
+<hr>
