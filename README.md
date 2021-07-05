@@ -27,6 +27,12 @@ I love computer networking and pen-testing.
 Currently design a complete home management system via Raspberry Pi. Subsystems include a security system,
 light controllers, backup power for essential home functionality, and all tied into make sketchy virtual assistant named Thrawn. 
 
+Since the school year was online I was able to code whenever, so I designed a program called ZOOMer that automates launching/closing
+of virtual meetings (Teams, Zoom, Skye, etc). Available for Linux distros, MacOS, and Windows. There is a command line interface
+version, and a GUI built with QT. Now you can just chill while your day flies by!
+
+I am also working on a Raspberry Pi super clustor.
+
 <hr>
 
 ### What I'm Currently Learning 
