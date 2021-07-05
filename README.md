@@ -1,4 +1,5 @@
-### Greeting Fellow Programmers 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+### Greeting Fellow Programmers 👋 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 <!--
 **CommanderQuazar/CommanderQuazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## My names Tobey Ragain AKA CommanderQuazar.
