@@ -24,10 +24,11 @@ I love computer networking and pen-testing.
 
 ### What I'm Currently Working On
 
-Currently design a complete home management system via Rasberry Pi. Subsystems include a security system,
-light controllers, backup power for essencial home functionailty, and all tied into make sketchy virtual assistant named Thrawn. 
+Currently design a complete home management system via Raspberry Pi. Subsystems include a security system,
+light controllers, backup power for essential home functionality, and all tied into make sketchy virtual assistant named Thrawn. 
 
 <hr>
+
 ### What I'm Currently Learning 
 
 
