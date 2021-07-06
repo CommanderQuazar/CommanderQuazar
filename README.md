@@ -1,7 +1,7 @@
 ## Greeting Fellow Programmers 👋 
 #### Viewers:
 
-![Visitor Count](https://profile-counter.glitch.me/DamieFC/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/CommanderQuazar/count.svg)
 
 <!--
 **CommanderQuazar/CommanderQuazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
