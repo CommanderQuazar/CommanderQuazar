@@ -1,4 +1,4 @@
-## Greeting Fellow Programmers 👋 
+## Greetings Fellow Programmers 👋 
 #### Viewers:
 
 ![Visitor Count](https://profile-counter.glitch.me/CommanderQuazar/count.svg)
