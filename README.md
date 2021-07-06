@@ -74,4 +74,4 @@ String To Int: ((str[0]-0x30)*1000)+((str[1]-0x30)*100)+((str[2]-0x30)*10)+((str
 
 ### Stats!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CommanderQuazar&count_private=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CommanderQuazar&count_private=true&theme=radical&show_icons=true)
