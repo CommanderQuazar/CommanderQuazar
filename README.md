@@ -18,18 +18,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### My names Tobey Ragain AKA CommanderQuazar.
+### My name is Tobey Ragain AKA CommanderQuazar.
 LinkedIn: https://www.linkedin.com/in/tobey-ragain-b252b41bb
 
-I am a low-level programmer based out of Seattle, Wa. I am fluent in C/C++, Python, SQL, x86 Assembly.
-I love computer networking and pen-testing.
+I am a low-level programmer based out of Seattle, Wa. I'm fluent in C/C++, Python, SQL, and x86 Assembly.
+I love computer networking and pen-testing as well!
 
 <hr>
 
 ### What I'm Currently Working On
 
 Currently designing a complete home management system via Raspberry Pi. Subsystems include a security system,
-light controllers, backup power for essential home functionality, and all tied into make sketchy virtual assistant named Thrawn. 
+light controllers, backup power for essential home functionality, and all tied into a sketchy virtual assistant named Thrawn. 
 
 Since the school year was online I was able to code whenever, so I designed a program called ZOOMer that automates launching/closing
 of virtual meetings (Teams, Zoom, Skye, etc). Available for Linux distros, MacOS, and Windows. There is a command line interface
