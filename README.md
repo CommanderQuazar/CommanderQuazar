@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### My name is Tobey Ragain AKA CommanderQuazar.
+### My name is Tobey AKA CommanderQuazar.
 LinkedIn: https://www.linkedin.com/in/tobey-ragain-b252b41bb
 
 I am a low-level programmer based out of Seattle, Wa. I'm fluent in C/C++, Python, SQL, and x86 Assembly.
