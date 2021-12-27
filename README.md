@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 -->
 
 ### My name is Tobey AKA CommanderQuazar.
+#CEO and Founder of Argon Galactic
 LinkedIn: https://www.linkedin.com/in/tobey-ragain-b252b41bb
 
 I am a low-level programmer based out of Seattle, Wa. I'm fluent in C/C++, Python, SQL, and x86 Assembly.
@@ -35,7 +36,7 @@ Since the school year was online I was able to code whenever, so I designed a pr
 of virtual meetings (Teams, Zoom, Skye, etc). Available for Linux distros, MacOS, and Windows. There is a command line interface
 version, and a GUI built with QT. Now you can just chill while your day flies by!
 
-I am also working on a Raspberry Pi super clustor.
+I am also working on a Raspberry Pi super clustor in my home lab.
 
 <hr>
 
