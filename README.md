@@ -47,7 +47,7 @@ I love diving into the Linux Kernel to see how it ticks and hope to create my ow
 <hr>
 
 ### Favorite Movies / Show
-1. Star Wars V: Empire Strikes Back
+1. The Social Network
 2. Tron: Legacy 
 3. Interstellar
 4. The Expanse (TV)
