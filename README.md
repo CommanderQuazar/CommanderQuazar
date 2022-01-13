@@ -63,7 +63,7 @@ I love diving into the Linux Kernel to see how it ticks and hope to create my ow
 ![](https://badgen.net/badge/Code/Make/blue) 
 
 ![](https://badgen.net/badge/Code/SQL/blue) ![](https://badgen.net/badge/Tools/Raspberry-Pi/blue)  ![](https://badgen.net/badge/Tools/QT/blue)
-![](https://badgen.net/badge/Tools/Git/blue) ![](https://badgen.net/badge/Editor/NeoVim/blue) ![](https://badgen.net/badge/Editor/PyCharm/blue)
+![](https://badgen.net/badge/Tools/Git/blue) ![](https://badgen.net/badge/Editor/NeoVim/blue) ![](https://badgen.net/badge/Editor/CLion/blue)
 
 <hr>
 
