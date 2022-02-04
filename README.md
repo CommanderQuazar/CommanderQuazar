@@ -22,28 +22,11 @@ Here are some ideas to get you started:
 #### CEO and Founder of Argon Galactic
 LinkedIn: https://www.linkedin.com/in/tobey-ragain-b252b41bb
 
-I am a low-level programmer based out of Seattle, Wa. I'm fluent in C/C++, Python, SQL, and x86 Assembly.
-I love computer networking and pen-testing as well!
-
-<hr>
-
-### What I'm Currently Working On
-
-Currently designing a complete home management system via Raspberry Pi. Subsystems include a security system,
-light controllers, backup power for essential home functionality, and all tied into a sketchy virtual assistant named Carl. 
-
-Since the school year was online I was able to code whenever, so I designed a program called ZOOMer that automates launching/closing
-of virtual meetings (Teams, Zoom, Skye, etc). Available for Linux distros, MacOS, and Windows. There is a command line interface
-version, and a GUI built with QT. Now you can just chill while your day flies by!
-
-I am also working on a Raspberry Pi super clustor in my home lab.
-
-<hr>
-
-### What I'm Currently Learning 
-
-Operating systems are by far the coolest programs every developed by humans. I am learning about OS dev and history of these systems.
-I love diving into the Linux Kernel to see how it ticks and hope to create my own kernel from scratch.
+I am a low-level programmer based out of Seattle, Wa. I have a 
+passion for low-level programming, operating system development, 
+and computer networking. I’m fluent in C/C++, x86 assembly, and 
+love learning about AI/ML systems. I believe that ambition and 
+tenacity are the foundation of innovation.
 
 <hr>
 
@@ -64,12 +47,6 @@ I love diving into the Linux Kernel to see how it ticks and hope to create my ow
 
 ![](https://badgen.net/badge/Code/SQL/blue) ![](https://badgen.net/badge/Tools/Raspberry-Pi/blue)  ![](https://badgen.net/badge/Tools/QT/blue)
 ![](https://badgen.net/badge/Tools/Git/blue) ![](https://badgen.net/badge/Editor/NeoVim/blue) ![](https://badgen.net/badge/Editor/Intelij/blue)
-
-<hr>
-
-### Cool One-Liners
-
-String To Int: ((str[0]-0x30)*1000)+((str[1]-0x30)*100)+((str[2]-0x30)*10)+((str[3]-0x30));
 
 <hr>
 
