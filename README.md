@@ -1,8 +1,3 @@
-## Greetings Fellow Programmers 👋 
-#### Viewers:
-
-![Visitor Count](https://profile-counter.glitch.me/CommanderQuazar/count.svg)
-
 <!--
 **CommanderQuazar/CommanderQuazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### My name is Tobey AKA CommanderQuazar.
+## My name is Tobey AKA CommanderQuazar.
 #### CEO and Founder of Argon Galactic
 LinkedIn: https://www.linkedin.com/in/tobey-ragain-b252b41bb
 
