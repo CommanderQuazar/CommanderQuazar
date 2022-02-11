@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## My name is Tobey AKA CommanderQuazar.
-#### CEO and Founder of Argon Galactic
+
 LinkedIn: https://www.linkedin.com/in/tobey-ragain-b252b41bb
 
 I am a low-level programmer based out of Seattle, Wa. I have a 
