@@ -37,7 +37,7 @@ My deep love for learning has allowed me to gain the knowledge and skill sets ne
 
 ### Tools and Technology
 
-![](https://badgen.net/badge/OS/Arch-Linux/blue) ![](https://badgen.net/badge/Ediotr/CLion/blue) ![](https://badgen.net/badge/Code/C-C++/blue) ![](https://badgen.net/badge/Code/Python/blue) ![](https://badgen.net/badge/Code/x86-Assembly/blue) ![](https://badgen.net/badge/Shell/Bash/blue)
+![](https://badgen.net/badge/OS/Arch-Linux/blue) ![](https://badgen.net/badge/Ediotr/CLion/blue) ![](https://badgen.net/badge/Code/C-C++/blue) ![](https://badgen.net/badge/Tool/AWS/blue) ![](https://badgen.net/badge/Code/x86-Assembly/blue) ![](https://badgen.net/badge/Shell/Bash/blue)
 ![](https://badgen.net/badge/Code/Make/blue) 
 
 ![](https://badgen.net/badge/Code/SQL/blue) ![](https://badgen.net/badge/Tools/Raspberry-Pi/blue)  ![](https://badgen.net/badge/Tools/QT/blue)
