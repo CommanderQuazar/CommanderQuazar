@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 LinkedIn: https://www.linkedin.com/in/tobey-ragain-b252b41bb
 
-I am a low-level programmer based out of Seattle, Wa. I have a 
-passion for low-level programming, operating system development, 
-and computer networking. I’m fluent in C/C++, x86 assembly, and 
-love learning about AI/ML systems. I believe that ambition and 
-tenacity are the foundation of innovation.
+Code; the foundation of humanity. A language so powerful that it can create intelligence. Learning to speak such a complex language not only changes the way I look at problems, but influences the way I see creation. No longer are we limited by certain aspects of the physical world and by entering the cryptic space of computing can we truly explore the impossible. Creativity often conflicts with the reality of the situation, but programming offers a way around that. Building environments were people and programs are allowed to prosper.
+
+I have a passion for low-level programming, operating system development, and computer networking. I’m fluent in C/C++, x86 assembly, SQL, and love learning about AI/ML systems. I believe that ambition and tenacity are the foundation of innovation.
+
+My deep love for learning has allowed me to gain the knowledge and skill sets needed to make true change in our world. I have made it my goal to push our civilization to inconceivable heights and through programming I stand to see it manifest. As a species, we stand at a crossroad, left is a path of global destruction and stagnation, while right is a world full of opportunities and incredible technology. We must act immediately in order to secure this dream or face the consequences.
 
 <hr>
 
