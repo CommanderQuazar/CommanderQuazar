@@ -41,7 +41,7 @@ My deep love for learning has allowed me to gain the knowledge and skill sets ne
 ![](https://badgen.net/badge/Code/Make/blue) 
 
 ![](https://badgen.net/badge/Code/MySQL/blue) ![](https://badgen.net/badge/Tools/Raspberry-Pi/blue)  ![](https://badgen.net/badge/Tools/QT/blue)
-![](https://badgen.net/badge/Tools/Git/blue) ![](https://badgen.net/badge/Editor/NeoVim/blue) ![](https://badgen.net/badge/Tool/M1 Pro MacBook/blue)
+![](https://badgen.net/badge/Tools/Git/blue) ![](https://badgen.net/badge/Editor/NeoVim/blue) ![](https://badgen.net/badge/Tool/M1-Pro-MacBook/blue)
 
 <hr>
 
