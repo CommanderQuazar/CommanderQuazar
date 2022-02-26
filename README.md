@@ -40,8 +40,8 @@ My deep love for learning has allowed me to gain the knowledge and skill sets ne
 ![](https://badgen.net/badge/OS/Arch-Linux/blue) ![](https://badgen.net/badge/Ediotr/CLion/blue) ![](https://badgen.net/badge/Code/C-C++/blue) ![](https://badgen.net/badge/Tool/AWS/blue) ![](https://badgen.net/badge/Code/x86-Assembly/blue) ![](https://badgen.net/badge/Shell/Bash/blue)
 ![](https://badgen.net/badge/Code/Make/blue) 
 
-![](https://badgen.net/badge/Code/SQL/blue) ![](https://badgen.net/badge/Tools/Raspberry-Pi/blue)  ![](https://badgen.net/badge/Tools/QT/blue)
-![](https://badgen.net/badge/Tools/Git/blue) ![](https://badgen.net/badge/Editor/NeoVim/blue) ![](https://badgen.net/badge/Editor/Intelij/blue)
+![](https://badgen.net/badge/Code/MySQL/blue) ![](https://badgen.net/badge/Tools/Raspberry-Pi/blue)  ![](https://badgen.net/badge/Tools/QT/blue)
+![](https://badgen.net/badge/Tools/Git/blue) ![](https://badgen.net/badge/Editor/NeoVim/blue) ![](https://badgen.net/badge/Tool/M1 Pro MacBook/blue)
 
 <hr>
 
