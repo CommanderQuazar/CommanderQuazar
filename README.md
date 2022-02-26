@@ -48,4 +48,4 @@ My deep love for learning has allowed me to gain the knowledge and skill sets ne
 ### Stats!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CommanderQuazar&count_private=true&theme=radical&show_icons=true)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CommanderQuazar&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CommanderQuazar&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
