@@ -11,11 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-## My name is Tobey AKA CommanderQuazar.
-
-LinkedIn: https://www.linkedin.com/in/tobey-ragain-b252b41bb
 
 Code; the foundation of humanity. A language so powerful that it can create intelligence. Learning to speak such a complex language not only changes the way I look at problems, but influences the way I see creation. No longer are we limited by certain aspects of the physical world and by entering the cryptic space of computing can we truly explore the impossible. Creativity often conflicts with the reality of the situation, but programming offers a way around that. Building environments were people and programs are allowed to prosper.
 
@@ -44,6 +39,8 @@ My deep love for learning has allowed me to gain the knowledge and skill sets ne
 ![](https://badgen.net/badge/Tool/Git/blue) ![](https://badgen.net/badge/Editor/NeoVim/blue) ![](https://badgen.net/badge/Tool/M1-Pro-MacBook/blue)
 
 <hr>
+
+-->
 
 ### Stats!
 
